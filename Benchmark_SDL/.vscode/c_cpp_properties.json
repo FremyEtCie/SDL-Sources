@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/libs",
+                "C:\\SDL2\\SDL2-devel-2.0.20-mingw\\SDL2-2.0.20\\x86_64-w64-mingw32\\include",
+                "C:\\SDL2\\SDL2-devel-2.0.20-mingw\\SDL2-2.0.20\\x86_64-w64-mingw32\\src"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
